@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colcrBackground">#00574B</color>
+    <color name="colorlight">#95E6DA</color>
+    <color name="colordark">#F33022</color>
+    <color name="colorlightdark">#E79B2B</color>
+    <color name="colorend">#B418C0</color>
+    <color name="colorback">#EEBBF1</color>
+    <color name="colorwhite">#FFFDFF</color>
+    <color name="colorbutton">#0DB3C7</color>
+    <color name="colormast">#2B1253</color>
+    <color name="colorVerify">#A2F026</color>
+    <color name="colorRegister">#79C009</color>
+    <color name="colorLogin">#89F0B2</color>
+
+</resources>

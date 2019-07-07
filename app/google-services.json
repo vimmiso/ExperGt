@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "996825041625",
+    "firebase_url": "https://expergt-f603c.firebaseio.com",
+    "project_id": "expergt-f603c",
+    "storage_bucket": "expergt-f603c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996825041625:android:25a21df9522073c4",
+        "android_client_info": {
+          "package_name": "com.example.expergt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996825041625-chbgmar2r2fdc4jjnu3kn9u2umdqntrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expergt",
+            "certificate_hash": "32fc837bf7f1ae2481e9832ab9ade9102ff03f1d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIT7W943fQik0KMjTn21IAmHG-EczGgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996825041625-13htnv4fa1m0j1pnig7gnt2bhgmul4ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
